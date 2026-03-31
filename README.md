@@ -1,1 +1,3 @@
 # SkillConnect
+SkillConnect is a platform that connects students who have skills but lack real-world experience with startups and small businesses that need affordable and reliable talent. It works as a micro-gig marketplace where startups post small projects and students complete them to earn money while building verified portfolios. This helps students gain practical experience and improves their employability, while startups benefit from faster, cost-effective hiring and execution.
+(Entrepreneurship Venture CA)
